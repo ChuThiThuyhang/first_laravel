@@ -8,5 +8,6 @@
             <div class="quote">Our contact page!</div>
         </div>
     </div>
-    <!--  -->
+
 @endsection
+
